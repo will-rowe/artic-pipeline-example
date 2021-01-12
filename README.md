@@ -3,7 +3,7 @@
   <h3>a quick demo of the ARTIC pipeline</h3>
   <hr>
   <a href="https://travis-ci.org/will-rowe/artic-pipeline-example"><img src="https://travis-ci.org/will-rowe/artic-pipeline-example.svg?branch=main" alt="travis"></a>
-  <a href="https://mybinder.org/v2/gh/will-rowe/artic-pipeline-example/master?filepath=notebooks"><img src="https://mybinder.org/badge_logo.svg" alt="binder"></a>
+  <a href="https://mybinder.org/v2/gh/will-rowe/artic-pipeline-example/main?filepath=notebooks"><img src="https://mybinder.org/badge_logo.svg" alt="binder"></a>
 </div>
 
 ***
