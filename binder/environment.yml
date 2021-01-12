@@ -4,6 +4,27 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - artic==1.2.0
+  - artic-porechop==0.3.2pre
+  - artic-tools==0.2.6
+  - bcftools=1.10.2
+  - biopython=1.76
+  - bwa=0.7.17
+  - clint=0.5.1
+  - htslib=1.10.2
+  - longshot=0.4.1
+  - medaka=1.0.3
+  - minimap2=2.17
+  - muscle=3.8
+  - nanopolish=0.13.2
+  - nomkl
+  - pandas=0.23.0
+  - pip
+  - pysam=0.16.0.1
+  - pytest
+  - python=3.6
+  - pyvcf=0.6.8
+  - samtools=1.10
+  - tqdm
   - pip:
-      - git+https://github.com/will-rowe/MultiQC.git@artic
+      - git+https://github.com/will-rowe/MultiQC.git
+      - git+https://github.com/artic-network/fieldbioinformatics.git@1.2.0
