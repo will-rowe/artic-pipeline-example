@@ -2,8 +2,7 @@
   <h1>ARTIC</h1>
   <h3>a quick demo of the ARTIC pipeline</h3>
   <hr>
-  <a href="https://travis-ci.org/will-rowe/artic-pipeline-example"><img src="https://travis-ci.org/will-rowe/artic-pipeline-example.svg?branch=master" alt="travis"></a>
-  <a href=""><img src="" alt="DOI"></a>
+  <a href="https://travis-ci.org/will-rowe/artic-pipeline-example"><img src="https://travis-ci.org/will-rowe/artic-pipeline-example.svg?branch=main" alt="travis"></a>
   <a href="https://mybinder.org/v2/gh/will-rowe/artic-pipeline-example/master?filepath=notebooks"><img src="https://mybinder.org/badge_logo.svg" alt="binder"></a>
 </div>
 
@@ -13,7 +12,7 @@
 
 To run the workbooks interactively from your browser, use Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/will-rowe/artic-pipeline-example/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/will-rowe/artic-pipeline-example/main?filepath=notebooks)
 
 
 ## Running the workbooks locally
