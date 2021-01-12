@@ -1,7 +1,7 @@
 name: artic-pipeline-example
 channels:
-  - conda-forge
   - bioconda
+  - conda-forge
   - defaults
 dependencies:
   - artic =1.2.0
