@@ -26,5 +26,5 @@ dependencies:
   - samtools=1.10
   - tqdm
   - pip:
-      - git+https://github.com/will-rowe/MultiQC.git
+      - git+https://github.com/will-rowe/MultiQC.git@master
       - git+https://github.com/artic-network/fieldbioinformatics.git@1.2.0
