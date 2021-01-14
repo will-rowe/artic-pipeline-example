@@ -27,4 +27,4 @@ dependencies:
   - samtools=1.10
   - tqdm
   - pip:
-      - git+https://github.com/artic-network/fieldbioinformatics.git@1.2.0
+      - git+https://github.com/artic-network/fieldbioinformatics.git@1.2.1
